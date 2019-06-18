@@ -60,8 +60,8 @@ textarea{
     background-color: cadetblue;
 }
 .swimlane{
-    width: 200px;
-    flex-basis: 200px;
+    width: 220px;
+    flex-basis: 210px;
     background-color: mediumturquoise;  
     padding: 8px;
     margin: 5px;
